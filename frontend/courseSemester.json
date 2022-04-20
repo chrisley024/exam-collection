@@ -1,0 +1,120 @@
+[
+  {
+    "title": "1st-Semester",
+    "courses": [
+      {
+        "name": "Mathematics 1",
+        "code": "MA1"
+      },
+      {
+        "name": "Software Construction 1",
+        "code": "SO1"
+      },
+      {
+        "name": "Electrical Eng. 1",
+        "code": "EE1"
+      }
+    ]
+  },
+  {
+    "title": "2nd-Semester",
+    "courses": [
+      {
+        "name": "Mathematics 2",
+        "code": "MA2"
+      },
+      {
+        "name": "Software Construction 2",
+        "code": "SO2"
+      },
+      {
+        "name": "Electrical Eng. 2",
+        "code": "EE2"
+      },
+      {
+        "name": "Electronics 1",
+        "code": "EL1"
+      }
+    ]
+  },
+  {
+    "title": "3rd-Semester",
+    "courses": [
+      {
+        "name": "Signals & Systems 1",
+        "code": "SS1"
+      },
+      {
+        "name": "Algorithms & Data Structures",
+        "code": "AD"
+      },
+      {
+        "name": "Electronics 2",
+        "code": "EL2"
+      },
+      {
+        "name": "Digital Circuits",
+        "code": "DI"
+      },
+      {
+        "name": "Economics & Mgt",
+        "code": "EM"
+      }
+    ]
+  },
+  {
+    "title": "4th-Semester",
+    "courses": [
+      {
+        "name": "Signals & Systems 2",
+        "code": "SS2"
+      },
+      {
+        "name": "Software Eng.",
+        "code": "SE"
+      },
+      {
+        "name": "Microcontrollers",
+        "code": "MC"
+      },
+      {
+        "name": "Digital Systems",
+        "code": "DS"
+      },
+      {
+        "name": "Databases",
+        "code": "DB"
+      }
+    ]
+  },
+  {
+    "title": "6th-Semester",
+    "courses": [
+      {
+        "name": "Bussystems & Sensors",
+        "code": "BU"
+      },
+      {
+        "name": "Operating Systems",
+        "code": "OS"
+      },
+      {
+        "name": "Digital Signal Processing",
+        "code": "DP"
+      },
+      {
+        "name": "Digital Comm. Systems",
+        "code": "DC"
+      }
+    ]
+  },
+  {
+    "title": "7th-Semester",
+    "courses": [
+      {
+        "name": "Intro. to Computer Graphics",
+        "code": "CM1"
+      }
+    ]
+  }
+]
