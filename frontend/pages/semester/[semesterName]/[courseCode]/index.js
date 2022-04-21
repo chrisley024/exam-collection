@@ -7,7 +7,7 @@ import moment from "moment";
 import { Modal } from "antd";
 import Image from "next/image";
 import {
-  EyeOutlined,
+  CloudDownloadOutlined,
   HeartOutlined,
   HeartFilled,
   CommentOutlined,
@@ -133,9 +133,9 @@ export default function CourseCode() {
                         href={exam.pdf.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        title="show pdf"
+                        title="show and download pdf"
                       >
-                        <EyeOutlined
+                        <CloudDownloadOutlined
                           style={{ fontSize: "26px", color: "#DC3545" }}
                         />
                       </a>
