@@ -38,9 +38,10 @@ export default function CourseCode() {
     }
   };
 
+  // change url from .pdf to .png
   const editImgUrl = (url) => {
-    let removed = url.split(".").splice(0, 3).join(".");
-    return `${removed}.png`;
+    const urlPng = url.replace(".pdf", ".png");
+    return urlPng;
   };
 
   const handleLike = async (_id) => {
